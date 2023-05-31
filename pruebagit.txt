@@ -7,3 +7,5 @@ Otra linea para probar el comando git diff.
 Aqui voy a crear un branch de nombre rama1.
 
 Esta linea se agrega en la rama de nombre rama1.
+
+Se agrega esta linea para verla en GitHub pero se envia desde consola Daniel.
