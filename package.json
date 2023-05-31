@@ -1,0 +1,11 @@
+{
+  "name": "05ecmascript",
+  "version": "1.0.0",
+  "description": "entendiendo EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Yepes",
+  "license": "MIT"
+}
