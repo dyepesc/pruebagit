@@ -5,3 +5,5 @@ Aqui escribo otra linea para hacer otra prueba.
 Otra linea para probar el comando git diff.
 
 Aqui voy a crear un branch de nombre rama1.
+
+Esta linea se agrega en la rama de nombre rama1.
