@@ -1,1 +1,3 @@
-Esto es una prueba de git del curso de Git y GitHub
+Esto es una prueba de git del curso de Git y GitHub.
+
+Aqui escribo otra linea para hacer otra prueba.
