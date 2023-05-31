@@ -3,3 +3,5 @@ Esto es una prueba de git del curso de Git y GitHub.
 Aqui escribo otra linea para hacer otra prueba.
 
 Otra linea para probar el comando git diff.
+
+Aqui voy a crear un branch de nombre rama1.
